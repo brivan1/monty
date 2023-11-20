@@ -27,3 +27,4 @@ int main(int argc, char **argv)
 	fclose(script_fd);
 	return (exit_code);
 }
+

@@ -69,3 +69,4 @@ int pchar_error(unsigned int line_number, char *message)
 	fprintf(stderr, "L%u: can't pchar, %s\n", line_number, message);
 	return (EXIT_FAILURE);
 }
+
